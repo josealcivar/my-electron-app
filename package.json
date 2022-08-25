@@ -1,0 +1,25 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "prueba de aplicacion de escritorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josealcivar/my-electron-app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "jose alcivar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josealcivar/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/josealcivar/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^20.1.0"
+  }
+}
